@@ -932,10 +932,10 @@
     "@motionone/dom" "^10.16.2"
     tslib "^2.3.1"
 
-"@next/bundle-analyzer@^13.4.10":
-  version "13.4.10"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-13.4.10.tgz#b4393f74567e6cedf6f31e6f3d0dfcbb2ef4d3dc"
-  integrity sha512-QwjRH/x1coj8+2Q2suXKez01Irc/rZQXiZ7qE96jj/xR1C+zze6cEdlhWzMlsBFlLmazBhFeOb0PeK6r4dVImA==
+"@next/bundle-analyzer@^13.5.6":
+  version "13.5.6"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-13.5.6.tgz#3c73f2e15ff5507317b37b87ce984bac5a5d7ad0"
+  integrity sha512-4P5YVpR3N/B5+p0TQ/rPAr+9fsjkdfCVTGzJhKwE7XHqS+QME4gYxAYeGKkfkHEkP2A3GKXs8QSp0LjIvWLI3g==
   dependencies:
     webpack-bundle-analyzer "4.7.0"
 
